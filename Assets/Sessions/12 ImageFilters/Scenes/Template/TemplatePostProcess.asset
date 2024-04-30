@@ -68,7 +68,7 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.253
+    m_Value: 0.236
   smoothness:
     m_OverrideState: 1
     m_Value: 0.529
@@ -110,7 +110,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
-  m_Name: 11 ValorantSmokes
+  m_Name: TemplatePostProcess
   m_EditorClassIdentifier: 
   components:
   - {fileID: 849379129802519247}
@@ -131,7 +131,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 97c23e3b12dc18c42a140437e53d3951, type: 3}
   m_Name: Tonemapping
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   mode:
     m_OverrideState: 1
     m_Value: 2
@@ -177,7 +177,7 @@ MonoBehaviour:
     m_Value: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 0.213
+    m_Value: 0
   response:
     m_OverrideState: 1
     m_Value: 0.8
@@ -220,7 +220,7 @@ MonoBehaviour:
     m_Value: 5.6
   focalLength:
     m_OverrideState: 1
-    m_Value: 30.8
+    m_Value: 1
   bladeCount:
     m_OverrideState: 1
     m_Value: 5
